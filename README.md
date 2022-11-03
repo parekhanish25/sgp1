@@ -1,2 +1,5 @@
-# sgp1
-CHARUSAT SGP1
+//setup requirements
+-xamp server and setup
+-MySql database
+-php plugins
+-Basic HTML,CSS Code Editor
