@@ -1,0 +1,2 @@
+# sgp1
+CHARUSAT SGP1
